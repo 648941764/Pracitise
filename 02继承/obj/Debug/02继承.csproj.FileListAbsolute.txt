@@ -1,0 +1,7 @@
+C:\Users\小伍\source\repos\01构造函数\02继承\bin\Debug\02继承.exe.config
+C:\Users\小伍\source\repos\01构造函数\02继承\bin\Debug\02继承.exe
+C:\Users\小伍\source\repos\01构造函数\02继承\bin\Debug\02继承.pdb
+C:\Users\小伍\source\repos\01构造函数\02继承\obj\Debug\02继承.csproj.AssemblyReference.cache
+C:\Users\小伍\source\repos\01构造函数\02继承\obj\Debug\02继承.csproj.CoreCompileInputs.cache
+C:\Users\小伍\source\repos\01构造函数\02继承\obj\Debug\02继承.exe
+C:\Users\小伍\source\repos\01构造函数\02继承\obj\Debug\02继承.pdb

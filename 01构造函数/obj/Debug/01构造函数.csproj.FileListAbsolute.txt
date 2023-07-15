@@ -1,0 +1,7 @@
+C:\Users\小伍\source\repos\01构造函数\01构造函数\bin\Debug\01构造函数.exe.config
+C:\Users\小伍\source\repos\01构造函数\01构造函数\bin\Debug\01构造函数.exe
+C:\Users\小伍\source\repos\01构造函数\01构造函数\bin\Debug\01构造函数.pdb
+C:\Users\小伍\source\repos\01构造函数\01构造函数\obj\Debug\01构造函数.csproj.AssemblyReference.cache
+C:\Users\小伍\source\repos\01构造函数\01构造函数\obj\Debug\01构造函数.csproj.CoreCompileInputs.cache
+C:\Users\小伍\source\repos\01构造函数\01构造函数\obj\Debug\01构造函数.exe
+C:\Users\小伍\source\repos\01构造函数\01构造函数\obj\Debug\01构造函数.pdb

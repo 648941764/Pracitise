@@ -1,0 +1,14 @@
+C:\Users\小伍\source\repos\01构造函数\07_Game\bin\Debug\netcoreapp3.1\07_Game.exe
+C:\Users\小伍\source\repos\01构造函数\07_Game\bin\Debug\netcoreapp3.1\07_Game.deps.json
+C:\Users\小伍\source\repos\01构造函数\07_Game\bin\Debug\netcoreapp3.1\07_Game.runtimeconfig.json
+C:\Users\小伍\source\repos\01构造函数\07_Game\bin\Debug\netcoreapp3.1\07_Game.runtimeconfig.dev.json
+C:\Users\小伍\source\repos\01构造函数\07_Game\bin\Debug\netcoreapp3.1\07_Game.dll
+C:\Users\小伍\source\repos\01构造函数\07_Game\bin\Debug\netcoreapp3.1\07_Game.pdb
+C:\Users\小伍\source\repos\01构造函数\07_Game\obj\Debug\netcoreapp3.1\07_Game.csproj.AssemblyReference.cache
+C:\Users\小伍\source\repos\01构造函数\07_Game\obj\Debug\netcoreapp3.1\07_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伍\source\repos\01构造函数\07_Game\obj\Debug\netcoreapp3.1\07_Game.AssemblyInfoInputs.cache
+C:\Users\小伍\source\repos\01构造函数\07_Game\obj\Debug\netcoreapp3.1\07_Game.AssemblyInfo.cs
+C:\Users\小伍\source\repos\01构造函数\07_Game\obj\Debug\netcoreapp3.1\07_Game.csproj.CoreCompileInputs.cache
+C:\Users\小伍\source\repos\01构造函数\07_Game\obj\Debug\netcoreapp3.1\07_Game.dll
+C:\Users\小伍\source\repos\01构造函数\07_Game\obj\Debug\netcoreapp3.1\07_Game.pdb
+C:\Users\小伍\source\repos\01构造函数\07_Game\obj\Debug\netcoreapp3.1\07_Game.genruntimeconfig.cache

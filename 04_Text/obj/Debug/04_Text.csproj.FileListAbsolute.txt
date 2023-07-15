@@ -1,0 +1,7 @@
+C:\Users\小伍\source\repos\01构造函数\04_Text\bin\Debug\04_Text.exe.config
+C:\Users\小伍\source\repos\01构造函数\04_Text\bin\Debug\04_Text.exe
+C:\Users\小伍\source\repos\01构造函数\04_Text\bin\Debug\04_Text.pdb
+C:\Users\小伍\source\repos\01构造函数\04_Text\obj\Debug\04_Text.csproj.AssemblyReference.cache
+C:\Users\小伍\source\repos\01构造函数\04_Text\obj\Debug\04_Text.csproj.CoreCompileInputs.cache
+C:\Users\小伍\source\repos\01构造函数\04_Text\obj\Debug\04_Text.exe
+C:\Users\小伍\source\repos\01构造函数\04_Text\obj\Debug\04_Text.pdb

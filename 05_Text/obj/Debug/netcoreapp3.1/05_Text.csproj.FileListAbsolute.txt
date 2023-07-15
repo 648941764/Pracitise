@@ -1,0 +1,13 @@
+C:\Users\小伍\source\repos\01构造函数\05_Text\bin\Debug\netcoreapp3.1\05_Text.exe
+C:\Users\小伍\source\repos\01构造函数\05_Text\bin\Debug\netcoreapp3.1\05_Text.deps.json
+C:\Users\小伍\source\repos\01构造函数\05_Text\bin\Debug\netcoreapp3.1\05_Text.runtimeconfig.json
+C:\Users\小伍\source\repos\01构造函数\05_Text\bin\Debug\netcoreapp3.1\05_Text.runtimeconfig.dev.json
+C:\Users\小伍\source\repos\01构造函数\05_Text\bin\Debug\netcoreapp3.1\05_Text.dll
+C:\Users\小伍\source\repos\01构造函数\05_Text\bin\Debug\netcoreapp3.1\05_Text.pdb
+C:\Users\小伍\source\repos\01构造函数\05_Text\obj\Debug\netcoreapp3.1\05_Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\小伍\source\repos\01构造函数\05_Text\obj\Debug\netcoreapp3.1\05_Text.AssemblyInfoInputs.cache
+C:\Users\小伍\source\repos\01构造函数\05_Text\obj\Debug\netcoreapp3.1\05_Text.AssemblyInfo.cs
+C:\Users\小伍\source\repos\01构造函数\05_Text\obj\Debug\netcoreapp3.1\05_Text.csproj.CoreCompileInputs.cache
+C:\Users\小伍\source\repos\01构造函数\05_Text\obj\Debug\netcoreapp3.1\05_Text.dll
+C:\Users\小伍\source\repos\01构造函数\05_Text\obj\Debug\netcoreapp3.1\05_Text.pdb
+C:\Users\小伍\source\repos\01构造函数\05_Text\obj\Debug\netcoreapp3.1\05_Text.genruntimeconfig.cache
